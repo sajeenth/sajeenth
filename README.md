@@ -13,7 +13,7 @@
 
 <h3>📫 Get in touch</h3>
 <li> :earth_americas: Personal Site: https://portfolio-website-cad4c.web.app/ </li>
-<li> :email: Email: <a href=[sajeenth19@gmail.com](mailto:sajeenth19@gmail.com)> sajeenth19@gmail.com </a> </li>
+<li> :email: Email: <a href="mailto:sajeenth19@gmail.com" alt="Contact me"> sajeenth19@gmail.com </a> </li>
 
 <h4> 💞️ I’m actively looking to collaborate on projects or hackathons.</h4>
 
