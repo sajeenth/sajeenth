@@ -12,7 +12,7 @@
 <li> Symmetric Encryption</li>
 
 <h3>📫 Get in touch</h3>
-<li> :earth_americas: Personal Site: </li>
+<li> :earth_americas: <a href="https://portfolio-website-cad4c.web.app/"> Personal Site:<a> </li>
 <li> :email: </li>
 
 <h4> 💞️ I’m actively looking to collaborate on projects or hackathons.</h4>
