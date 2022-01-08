@@ -7,8 +7,8 @@
 <li> Attending Hackathons </li>
 
 <h3>:clipboard: I’m currently learning and improving my:</h3>
-<li> React skills </li>
-<li> Source Control</li>
+<li> React Skills </li>
+<li> Source Control Management (SCM)</li>
 <li> Symmetric Encryption</li>
 
 <h3>📫 Get in touch</h3>
