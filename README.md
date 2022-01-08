@@ -13,7 +13,7 @@
 
 <h3>📫 Get in touch</h3>
 <li> Personal Site: </li>
-<li>:email: [Contact Us](mailto:admin@cloudhadoop.com) </li>
+[Contact Us](mailto:admin@cloudhadoop.com)
 
 <h4> 💞️ I’m actively looking to collaborate on projects or hackathons.</h4>
 
