@@ -13,7 +13,7 @@
 
 <h3>📫 Get in touch</h3>
 <li> Personal Site: </li>
-<li>:email: [sajeenth19@gmail.com](mailto:sajeenth19@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+<li>:email: [sajeenth19@gmail.com](mailto:sajeenth19@gmail.com)
 
 <h4> 💞️ I’m actively looking to collaborate on projects or hackathons.</h4>
 
