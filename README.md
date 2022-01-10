@@ -3,7 +3,7 @@
 
 <h3>:blush: I’m interested in:</h3>
 <li> Software Development </li>
-<li> Full stack Development </li>
+<li> Machine Learning </li>
 <li> Attending Hackathons </li>
 
 <h3>:clipboard: I’m currently learning and improving my:</h3>
