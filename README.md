@@ -12,7 +12,6 @@
 <li> Symmetric Encryption</li>
 
 <h3>📫 Get in touch</h3>
-<li> :earth_americas: Personal Site: https://portfolio-website-cad4c.web.app/ </li>
 <li> :email: Email: <a href="mailto:sajeenth19@gmail.com" alt="Contact me"> sajeenth19@gmail.com </a> </li>
 <li> :boy: Linkedin: https://www.linkedin.com/in/sajeenth-shiva-9466b119a/ </li>
 
