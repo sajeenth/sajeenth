@@ -1,5 +1,5 @@
 <h1 align ="center">👋 Hi, I’m Sajeenth Shivauthayalingam!</h1>
-<h4> I am a Double-Degree student studying Computer Science and Business Administration at the University of Waterloo and Wilfrid Laurier University.</h4>
+<h4> I am a student studying Computer Science at the University of Waterloo.</h4>
 
 <h3>:blush: I’m interested in:</h3>
 <li> Software Development </li>
