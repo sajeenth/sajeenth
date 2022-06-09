@@ -6,8 +6,8 @@
 <li> Machine Learning </li>
 <li> Attending Hackathons </li>
 
-<h3>:clipboard: I’m currently learning and improving my:</h3>
-<li> React Skills </li>
+<h3>:clipboard: I’m currently learning and improving on:</h3>
+<li> React </li>
 <li> Source Control Management (SCM)</li>
 <li> Symmetric Encryption</li>
 
