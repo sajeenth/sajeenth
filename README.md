@@ -6,10 +6,6 @@
 <li> Machine Learning </li>
 <li> Attending Hackathons </li>
 
-<h3>:clipboard: I’m currently learning and improving on:</h3>
-<li> React </li>
-<li> Source Control Management (SCM)</li>
-<li> Symmetric Encryption</li>
 
 <h3>📫 Get in touch</h3>
 <li> :email: Email: <a href="mailto:sajeenth19@gmail.com" alt="Contact me"> sajeenth19@gmail.com </a> </li>
