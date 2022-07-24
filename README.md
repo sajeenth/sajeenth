@@ -4,7 +4,7 @@
 <h3>:blush: I’m interested in:</h3>
 <li> Fullstack Development </li>
 <li> Machine Learning </li>
-<li> AI/VR </li>
+<li> Artificial Intelligence </li>
 
 
 <h3>📫 Get in touch</h3>
