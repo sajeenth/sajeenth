@@ -2,9 +2,9 @@
 <h4> I am a student studying Computer Science at the University of Waterloo.</h4>
 
 <h3>:blush: I’m interested in:</h3>
-<li> Software Development </li>
+<li> Fullstack Development </li>
 <li> Machine Learning </li>
-<li> Attending Hackathons </li>
+<li> AI/VR </li>
 
 
 <h3>📫 Get in touch</h3>
