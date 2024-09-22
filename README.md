@@ -8,6 +8,9 @@
 <li> Web Development </li>
 <li> Artificial Intelligence </li>
 
+<h3>Github Stats</h3>
+(https://github-readme-stats.vercel.app/api?username=sajeenth)](https://github.com/sajeenth/github-readme-stats)
+
 
 <h3>📫 Get in touch</h3>
 <li> :email: Email: <a href="mailto:sshivaut@uwaterloo.ca" alt="Contact me"> sshivaut@uwaterloo.ca </a> </li>
