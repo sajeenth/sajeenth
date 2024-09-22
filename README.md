@@ -1,9 +1,11 @@
-<h1 align ="center">👋 Hi, I’m Sajeenth Shivauthayalingam!</h1>
-<h4> I am a student studying Computer Science at the University of Waterloo.</h4>
+<h1 align ="center">👋 Hello, I’m Sajeenth Shivauthayalingam!</h1>
+<h4> I am a fourth-year Computer Science student at the University of Waterloo.</h4>
 
 <h3>:blush: I’m interested in:</h3>
 <li> Fullstack Development </li>
+<li> Algorithms </li>
 <li> Machine Learning </li>
+<li> Web Development </li>
 <li> Artificial Intelligence </li>
 
 
