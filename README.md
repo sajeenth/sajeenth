@@ -9,7 +9,7 @@
 <li> Artificial Intelligence </li>
 
 <h3>Github Stats</h3>
-![Dylan Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanwang0&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanwang0&langs_count=8&theme=radical&layout=compact)](https://github.com/dylanwang0/github-readme-stats)
 
 <h3>📫 Get in touch</h3>
 <li> :email: Email: <a href="mailto:sshivaut@uwaterloo.ca" alt="Contact me"> sshivaut@uwaterloo.ca </a> </li>
