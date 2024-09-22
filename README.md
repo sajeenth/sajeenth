@@ -9,8 +9,7 @@
 <li> Artificial Intelligence </li>
 
 <h3>Github Stats</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajeenth)](https://github.com/sajeenth/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajeenth)](https://github.com/anuraghazra/github-readme-stats)
 <h3>📫 Get in touch</h3>
 <li> :email: Email: <a href="mailto:sshivaut@uwaterloo.ca" alt="Contact me"> sshivaut@uwaterloo.ca </a> </li>
 <li> :boy: Linkedin: https://www.linkedin.com/in/sajeenth-shiva-9466b119a/ </li>
