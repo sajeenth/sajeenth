@@ -9,7 +9,9 @@
 <li> Artificial Intelligence </li>
 
 <h3>Github Stats</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajeenth)](https://github.com/sajeenth/github-readme-stats)
+<a href="https://github.com/sajeenth/sajeenth">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sajeenth&langs_count=8&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&hide=jupyter%20notebook,cmake,html,css,makefile,shell,procfile" />
+</a>
 
 <h3>📫 Get in touch</h3>
 <li> :email: Email: <a href="mailto:sshivaut@uwaterloo.ca" alt="Contact me"> sshivaut@uwaterloo.ca </a> </li>
