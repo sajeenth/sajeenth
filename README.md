@@ -16,7 +16,7 @@
 <h3>📫 Get in touch</h3>
 <li> :email: Email: <a href="mailto:sshivaut@uwaterloo.ca" alt="Contact me"> sshivaut@uwaterloo.ca </a> </li>
 <li> :boy: Linkedin: https://www.linkedin.com/in/sajeenth-shiva-9466b119a/ </li>
-<li> 💻: Website: https://www.linkedin.com/in/sajeenth-shiva-9466b119a](https://sajeenthshiva.com/ </li>
+<li> 💻: Website: https://sajeenthshiva.com/ </li>
 
 <h4> 💞️ I’m actively looking to collaborate on projects or hackathons.</h4>
 
